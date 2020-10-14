@@ -1,1 +1,1 @@
-oct8lab
+This repository is a lab activity for IAT339 Oct 8th Lab.
